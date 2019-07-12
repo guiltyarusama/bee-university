@@ -8,7 +8,7 @@ Hãy bấm Star để ủng hộ BeeCost nhé :kissing_heart:
   
 
 # Development
-```markdown
+```bash
 
 #install python 
 
@@ -36,11 +36,11 @@ python crawler/crawl_diemchuan.py
 
 # Output
 
-> Output: /bee_university/crawler/common/university.gz
+> /bee_university/crawler/common/university.gz
 
 Download: [university.gz](https://github.com/beecost/bee-university/blob/master/output_data/crawler/common/university.gz) 
 
-> Output: /bee_university/crawler/common/university_diemchuan.gz
+> /bee_university/crawler/common/university_diemchuan.gz
 
 Download: [university_diemchuan.gz](https://github.com/beecost/bee-university/blob/master/output_data/crawler/common/university_diemchuan.gz) 
 
