@@ -27,10 +27,17 @@ python init.py
 python crawler/crawler_university_list.py
 # Crawl điểm chuẩn từ 2014 - 2018
 python crawler/crawl_diemchuan.py
-
-> Output: /bee_university/crawler/common/university.gz 
-> Output: /bee_university/crawler/common/university_diemchuan.gz
 ```
+
+# Output
+
+> Output: /bee_university/crawler/common/university.gz
+
+Download: (university.gz)[https://github.com/beecost/bee-university/blob/master/output_data/crawler/common/university.gz] 
+
+> Output: /bee_university/crawler/common/university_diemchuan.gz
+Download: (university_diemchuan.gz)[https://github.com/beecost/bee-university/blob/master/output_data/crawler/common/university_diemchuan.gz] 
+
 
 # Format data
 
