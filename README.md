@@ -72,7 +72,7 @@ File: `university_diemchuan.gz`
 
 Tran Minh Tuan - [tuantmtb](https://facebook.com/tuantmtb) - tuan@beecost.com
 
-# BeeCost
+# BeeCost - Tiện ích mua sắm Online
 
 BeeCost là Trợ lý mua sắm online. Giúp bạn mua hàng tiết kiệm hơn trên Shopee, Tiki, Sendo, Lazada, Adayroi. Ứng dụng được tạo từ việc phân tích hơn 50 triệu sản phẩm thương mại điện tử mỗi ngày. 
 
@@ -83,8 +83,8 @@ Tính năng chính của tiện ích BeeCost:
 - Price Alert (Thông báo khi giảm giá)
 - Tìm kiếm mã giảm giá tự động
 
-> Chi tiết xem tại [Trang chủ](https://www.beecost.com)
+> Tìm hiểu BeeCost tại [Trang chủ](https://www.beecost.com)
 
-> Download BeeCost Extension trên Google Chrome: [BeeCost Extension](https://www.beecost.com/download/extension?pub=github_opensource)
+> Download [BeeCost Extension](https://www.beecost.com/download/extension?pub=github_opensource) trên Google Chrome
 
-> Download [BeeCost Android](https://play.google.com/store/apps/details?id=com.beecost.assistance.shopee&hl=vi)
+> Download [BeeCost Android](https://play.google.com/store/apps/details?id=com.beecost.assistance.shopee&hl=vi) trên Mobile
