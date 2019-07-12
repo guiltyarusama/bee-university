@@ -1,8 +1,11 @@
 # bee-university
+> Project Open Source provide by BeeCost.Com
 
 Project thu thập điểm chuẩn đại học 2014 - 2018 và phân tích dữ liệu
 
-> Project Open Source provide by BeeCost.Com
+Hãy bấm Star để ủng hộ BeeCost nhé :kissing_heart:
+
+  
 
 # Development
 ```markdown
