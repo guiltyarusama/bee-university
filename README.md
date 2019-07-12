@@ -3,12 +3,12 @@
 Project thu thập điểm chuẩn đại học 2014 - 2018 và phân tích dữ liệu
 
 # Development
-
 ```markdown
 
 #install python 
 
 #install python 3.7
+
 
 mkdir -p /bee_university
 
@@ -20,7 +20,6 @@ virtualenv venv -p python3.7
 source venv/bin/activate
 pip install -r requirements.txt
 
-
 # Update folder path in init.py
 python init.py
 
@@ -31,6 +30,7 @@ python crawler/crawl_diemchuan.py
 
 > Output: /bee_university/crawler/common/university.gz 
 > Output: /bee_university/crawler/common/university_diemchuan.gz
+```
 
 # Format data
 
